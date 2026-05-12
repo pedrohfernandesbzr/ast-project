@@ -1,9 +1,13 @@
 # 📝 Assistente de Ensaios Técnicos - AST
 
-## *Para ensaios em corpos de prova de concreto*
+## *Para ensaios em corpos de prova de concreto utilizando sistema embarcado em ESP32*
 
 
-### 👥 Coolaboradores:
+**⚙️ Projeto no Wokwi:**
+- Link: https://wokwi.com/projects/463119865309605889
+
+
+**👥 Coolaboradores:**
 - Pedro Henrique Fernandes Bezerra - Criador (https://github.com/pedrohfernandesbzr)
 
 

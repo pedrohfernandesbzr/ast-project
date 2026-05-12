@@ -1,12 +1,14 @@
-## 📝 Assistente de Ensaios Técnicos - AST
+# 📝 Assistente de Ensaios Técnicos - AST
 
-Para ensaios em corpos de prova de concreto
+## *Para ensaios em corpos de prova de concreto*
 
 
 ### 👥 Coolaboradores:
-**Pedro Henrique Fernandes Bezerra** - Criador (https://github.com/pedrohfernandesbzr)
+- Pedro Henrique Fernandes Bezerra - Criador (https://github.com/pedrohfernandesbzr)
+
 
 ---
+
 
 ## 1️. Visão Geral da Solução
 
